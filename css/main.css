@@ -1,0 +1,35 @@
+body {
+	font-family: sarif;
+	font-size: 2.7em;
+	background-color: #000;
+	color: #dedede;
+}
+
+#header {
+	font-size: 0.5em;
+	font-weight: bold;
+	padding-bottom: 4%;
+}
+
+section#stopwatch {
+	text-align: center;
+	width: 80%;
+	margin: 0 auto;
+}
+
+input#processButton {
+        background-color: #e6e6e6;
+        border: 0 none rgba(0, 0, 0, 0);
+        border-radius: 4px;
+        color: rgba(0, 0, 0, 0.8);
+        font-family: inherit;
+        font-size: 0.84em;
+        padding: 0.2em 0.4em;
+        text-decoration: none;
+}
+
+#footer {
+	padding-top: 4%;
+	font-size: 0.25em;
+}
+
